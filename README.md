@@ -6,3 +6,8 @@
 <h5>- The presentation Provides an overview of the application.</h1>
 <h5>- Shiny app hosted on shiny app.io.</h1>
 <h5>- The corresponds sourse code hosted with github.</h1>
+
+<h5> website and presentation links.</h1>
+https://banchan.shinyapps.io/ShinyAppProject/
+https://rpubs.com/BanChan/assignment4
+
